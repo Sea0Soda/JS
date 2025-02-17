@@ -15,7 +15,7 @@ let apple = 1;
 
   // 3-3.예악어를 사용할 수 없다.
 
-  // 4. 변수 명명 가이드.
+  // 4. 변수 명명 가이드.1
   let salesCount =1;
   let refundCount =1;
   let totalSalesCount  = salesCount - refundCount;
