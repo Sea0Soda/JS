@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="chapter05.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/22.14.0/node" path-to-js-file="chapter06.js" working-dir="$PROJECT_DIR$">
+  <configuration default="false" name="chapter05.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/22.14.0/node" path-to-js-file="chapter07.js" working-dir="$PROJECT_DIR$">
     <method v="2" />
   </configuration>
 </component>
